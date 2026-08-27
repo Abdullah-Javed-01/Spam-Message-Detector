@@ -157,9 +157,9 @@ Spam-Message-Detector/
 ## Team Members
 
 - Abdullah Javed
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
+- Ayza Tahir
+- Momina Sohail
+- Qasim Ali
 
 ## Technologies
 
